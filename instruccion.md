@@ -11,4 +11,4 @@
 - **git log** – mostra l’historial de commits  
 - **git remote** – gestiona repositoris remots  
 - **git reset** – desfà canvis a l’índex o als commits  
-- **git diff** – mostra les diferències entre versions  
+- **git diff** – mostra les diferències entre versions .
